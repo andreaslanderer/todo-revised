@@ -1,2 +1,5 @@
 rootProject.name = 'todo-revised'
+include 'model'
+include 'repository'
+include 'web'
 
